@@ -36,12 +36,13 @@
 </div>
 
 ###
- <img src="Snake.svg" alt="Description of the SVG" width="100" height="100">
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fadymofid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
 
 </div>
 
+ <img src="Snake.svg" alt="Description of the SVG" width="100" height="100">
 
 
