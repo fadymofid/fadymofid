@@ -43,6 +43,8 @@
 
 </div>
 
- <img src="Snake.svg" alt="Description of the SVG" width="100" height="100">
 
+<div align="center">
+ <img src="Snake.svg" alt="Description of the SVG" width="100%" height="100%">
+</div>
 
