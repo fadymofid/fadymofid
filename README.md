@@ -47,12 +47,14 @@
 
 ###
 
-<div align="left">
-  <a href="mailto:fadymichel134@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail" />
+<div align="left" style="display: flex; gap: 15px;">
+  <!-- Gmail -->
+  <a href="mailto:fadymichel134@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/fady-michel-44b050235/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/fady-michel-44b050235/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="linkedin" />
   </a>
 </div>
 
